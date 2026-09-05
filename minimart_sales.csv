@@ -1,0 +1,324 @@
+order_id,order_date,product_id,product_name,category,city,quantity,unit_price,cost_price,discount_pct,rating,delivery_minutes,payment_method
+O0001,2025-04-03,P101,Bread,Grocery,Pune,2,35,22,5,5.0,35.0,UPI
+O0002,2025-03-05,P101,Bread,Grocery,Bengaluru,3,35,22,15,4.5,27.0,Wallet
+O0003,2025-02-24,P107,Cooking Oil,Staples,Pune,1,160,118,0,5.0,28.0,Card
+O0004,2025-03-07,P107,Cooking Oil,Staples,Mumbai,2,160,118,0,3.0,20.0,Cash
+O0005,2025-04-10,P107,Cooking Oil,Staples,Mumbai,3,160,118,0,4.5,22.0,UPI
+O0006,2025-02-23,P108,Soap,Personal Care,Bengaluru,3,45,28,15,4.5,32.0,UPI
+O0007,2025-01-06,P104,Coffee,Beverages,Pune,1,180,120,10,4.5,45.0,Card
+O0008,2025-02-19,P108,Soap,Personal Care,Mumbai,5,45,28,5,3.0,37.0,Card
+O0009,2025-01-16,P104,Coffee,Beverages,Pune,2,180,120,5,3.5,33.0,Wallet
+O0010,2025-01-20,P104,Coffee,Beverages,Bengaluru,3,180,120,10,3.0,22.0,Card
+O0011,2025-04-07,P104,Coffee,Beverages,Bengaluru,2,180,120,20,3.5,34.0,Cash
+O0012,2025-04-10,P102,Milk,Dairy,Delhi,4,60,42,0,4.5,33.0,Wallet
+O0013,2025-03-26,P104,Coffee,Beverages,Mumbai,4,180,120,10,4.0,22.0,UPI
+O0014,2025-01-30,P102,Milk,Dairy,Delhi,2,60,42,10,4.0,14.0,Card
+O0015,2025-04-02,P101,Bread,Grocery,Pune,3,35,22,10,4.0,33.0,Wallet
+O0016,2025-03-14,P103,Biscuits,Snacks,,1,30,18,5,5.0,26.0,UPI
+O0017,2025-04-13,P108,Soap,Personal Care,Delhi,1,45,28,15,3.0,31.0,Wallet
+O0018,2025-02-22,P103,Biscuits,Snacks,Pune,1,30,18,10,4.0,33.0,Wallet
+O0019,2025-02-18,P104,Coffee,Beverages,Mumbai,4,180,120,5,3.5,25.0,UPI
+O0020,2025-04-03,P101,Bread,Grocery,Pune,3,35,22,5,4.5,28.0,UPI
+O0021,2025-01-19,P108,Soap,Personal Care,Mumbai,3,45,28,5,4.0,27.0,UPI
+O0022,2025-03-24,P103,Biscuits,Snacks,Pune,2,30,18,5,5.0,17.0,UPI
+O0023,2025-04-26,P103,Biscuits,Snacks,Mumbai,5,30,18,5,4.5,24.0,Wallet
+O0024,2025-02-01,P108,Soap,Personal Care,Bengaluru,1,45,28,10,4.5,26.0,Card
+O0025,2025-01-12,P101,Bread,Grocery,Mumbai,5,35,22,0,4.0,14.0,Cash
+O0026,2025-04-08,P103,Biscuits,Snacks,Pune,2,30,18,0,4.0,28.0,Wallet
+O0027,2025-03-28,P104,Coffee,Beverages,Pune,2,180,120,5,4.0,40.0,UPI
+O0028,2025-03-17,P106,Rice 5kg,Staples,Delhi,4,420,320,5,4.5,38.0,UPI
+O0029,2025-02-09,P102,Milk,Dairy,Pune,1,60,42,10,3.0,18.0,Wallet
+O0030,2025-02-05,P102,Milk,Dairy,Bengaluru,5,60,42,10,4.0,33.0,Card
+O0031,2025-01-03,P103,Biscuits,Snacks,Delhi,5,30,18,5,4.0,30.0,UPI
+O0032,2025-02-03,P101,Bread,Grocery,Mumbai,3,35,22,5,4.0,20.0,Wallet
+O0033,2025-02-26,P105,Shampoo,Personal Care,Bengaluru,1,220,150,20,3.5,24.0,Wallet
+O0034,2025-02-04,P104,Coffee,Beverages,Delhi,1,180,120,15,3.0,26.0,Wallet
+O0035,2025-03-08,P103,Biscuits,Snacks,Mumbai,1,30,18,10,4.5,27.0,Cash
+O0036,2025-04-23,P106,Rice 5kg,Staples,Bengaluru,0,420,320,0,4.0,18.0,Wallet
+O0037,2025-01-05,P102,Milk,Dairy,Delhi,2,60,42,10,4.0,21.0,Card
+O0038,2025-04-26,P107,Cooking Oil,Staples,Mumbai,1,160,118,20,4.0,26.0,Card
+O0039,2025-01-31,P108,Soap,Personal Care,Bengaluru,5,45,28,0,3.0,24.0,Card
+O0040,2025-04-27,P104,Coffee,Beverages,Bengaluru,1,180,120,20,3.0,29.0,Cash
+O0041,2025-04-18,P102,Milk,Dairy,Delhi,2,60,42,5,3.5,29.0,Card
+O0042,2025-02-19,P106,Rice 5kg,Staples,Mumbai,5,420,320,0,4.5,29.0,Cash
+O0043,2025-04-23,P101,Bread,Grocery,Bengaluru,1,35,22,0,,41.0,Wallet
+O0044,2025-03-31,P102,Milk,Dairy,Delhi,1,60,42,10,4.5,39.0,Wallet
+O0045,2025-02-07,P103,Biscuits,Snacks,Bengaluru,4,30,18,5,5.0,27.0,Card
+O0046,2025-04-23,P102,Milk,Dairy,Delhi,1,60,42,0,3.5,33.0,UPI
+O0047,2025-01-15,P108,Soap,Personal Care,Mumbai,2,45,28,20,4.5,18.0,Card
+O0048,2025-04-14,P102,Milk,Dairy,Bengaluru,1,60,42,10,3.0,28.0,Cash
+O0049,2025-01-15,P104,Coffee,Beverages,Pune,5,180,120,0,4.0,25.0,UPI
+O0050,2025-03-03,P104,Coffee,Beverages,Pune,1,180,120,20,4.0,22.0,Card
+O0051,2025-01-03,P104,Coffee,Beverages,Pune,2,180,120,0,4.0,19.0,Cash
+O0052,2025-03-31,P102,Milk,Dairy,Mumbai,1,60,42,20,3.0,21.0,Cash
+O0053,2025-04-07,P106,Rice 5kg,Staples,Mumbai,2,420,320,10,4.5,30.0,Cash
+O0054,2025-02-04,P101,Bread,Grocery,Bengaluru,1,35,22,15,4.0,26.0,UPI
+O0055,2025-03-14,P107,Cooking Oil,Staples,Bengaluru,4,160,118,15,4.0,23.0,UPI
+O0056,2025-04-22,P103,Biscuits,Snacks,Mumbai,30,30,18,10,5.0,16.0,Wallet
+O0057,2025-01-30,P105,Shampoo,Personal Care,Mumbai,1,220,150,20,4.5,42.0,Wallet
+O0058,2025-04-16,P101,Bread,Grocery,Delhi,2,35,22,10,4.0,41.0,UPI
+O0059,2025-02-07,P103,Biscuits,Snacks,Bengaluru,1,30,18,20,5.0,31.0,UPI
+O0060,2025-03-11,P103,Biscuits,Snacks,Delhi,2,30,18,0,4.0,25.0,UPI
+O0061,2025-01-21,P102,Milk,Dairy,Bengaluru,1,60,42,5,4.0,36.0,Wallet
+O0062,2025-04-10,P104,Coffee,Beverages,Mumbai,5,180,120,10,4.5,22.0,Wallet
+O0063,2025-01-06,P105,Shampoo,Personal Care,Mumbai,1,220,150,20,3.5,44.0,Cash
+O0064,2025-04-24,P105,Shampoo,Personal Care,Mumbai,1,220,150,0,3.0,30.0,Card
+O0065,2025-01-13,P108,Soap,Personal Care,Delhi,4,45,28,0,3.0,31.0,Cash
+O0066,2025-04-11,P101,Bread,Grocery,Bengaluru,4,35,22,20,3.5,24.0,Wallet
+O0067,2025-04-04,P105,Shampoo,Personal Care,Pune,3,220,150,10,4.5,27.0,Wallet
+O0068,2025-02-08,P105,Shampoo,Personal Care,Pune,5,220,150,15,5.0,26.0,Card
+O0069,2025-03-18,P106,Rice 5kg,Staples,Delhi,1,420,320,0,3.0,13.0,UPI
+O0070,2025-03-14,P104,Coffee,Beverages,Delhi,1,180,120,5,4.0,25.0,Card
+O0071,2025-02-15,P104,Coffee,Beverages, delhi ,3,180,120,0,3.5,38.0,Cash
+O0072,2025-04-13,P108,Soap,Personal Care,Mumbai,4,45,28,5,4.0,41.0,Cash
+O0073,2025-03-20,P104,Coffee,Beverages,Delhi,4,180,120,10,4.0,28.0,UPI
+O0074,2025-01-22,P103,Biscuits,Snacks,Pune,1,30,18,0,4.0,26.0,Cash
+O0075,2025-03-15,P108,Soap,Personal Care,Pune,1,45,28,10,4.5,33.0,Cash
+O0076,2025-03-28,P108,Soap,Personal Care,Delhi,5,45,28,20,3.5,40.0,Wallet
+O0077,2025-04-04,P104,Coffee,Beverages,Bengaluru,4,180,120,20,5.0,28.0,Cash
+O0078,2025-01-07,P105,Shampoo,Personal Care,Delhi,2,220,150,10,3.5,37.0,UPI
+O0079,2025-03-10,P101,Bread,Grocery,Mumbai,2,35,22,10,4.0,28.0,Wallet
+O0080,2025-03-04,P107,Cooking Oil,Staples,Mumbai,1,160,118,10,3.0,32.0,Wallet
+O0081,2025-01-15,P107,Cooking Oil,Staples,Pune,1,160,118,5,4.0,34.0,Wallet
+O0082,2025-01-25,P107,Cooking Oil,Staples,Pune,3,160,118,5,4.5,29.0,Wallet
+O0083,2025-02-02,P106,Rice 5kg,Staples,Bengaluru,1,420,320,10,3.5,26.0,Wallet
+O0084,2025-01-11,P102,Milk,Dairy,Bengaluru,2,60,42,5,4.5,39.0,Card
+O0085,2025-03-08,P102,Milk,Dairy,Bengaluru,5,60,42,5,4.5,34.0,UPI
+O0086,2025-03-20,P104,Coffee,Beverages,Bengaluru,1,180,120,10,5.0,32.0,Wallet
+O0087,2025-04-13,P103,Biscuits,Snacks,Bengaluru,3,30,18,0,3.0,40.0,UPI
+O0088,2025-03-07,P106,Rice 5kg,Staples,Delhi,1,420,320,5,4.5,17.0,Wallet
+O0089,2025-02-25,P108,Soap,Personal Care,Mumbai,2,45,28,0,3.5,32.0,Cash
+O0090,2025-03-07,P107,Cooking Oil,Staples,Delhi,2,160,118,20,3.0,24.0,Wallet
+O0091,2025-04-11,P107,Cooking Oil,Staples,Delhi,1,160,118,10,5.0,22.0,UPI
+O0092,2025-03-16,P106,Rice 5kg,Staples,Delhi,3,420,320,20,5.0,22.0,UPI
+O0093,2025-01-18,P104,Coffee,Beverages,Bengaluru,4,180,120,15,3.5,24.0,Card
+O0094,2025-04-20,P106,Rice 5kg,Staples,Delhi,1,420,320,0,3.0,12.0,UPI
+O0095,2025-04-07,P108,Soap,Personal Care,Bengaluru,1,45,28,5,5.0,22.0,Cash
+O0096,2025-04-27,P107,Cooking Oil,Staples,Bengaluru,1,160,118,15,5.0,38.0,Cash
+O0097,2025-01-05,P104,Coffee,Beverages,Mumbai,1,180,120,0,3.0,27.0,
+O0098,2025-03-07,P106,Rice 5kg,Staples,Pune,1,420,320,15,4.0,16.0,UPI
+O0099,2025-01-24,P101,Bread,Grocery,Delhi,1,35,22,0,4.5,41.0,Cash
+O0100,2025-03-03,P105,Shampoo,Personal Care,Delhi,1,220,150,10,3.0,26.0,UPI
+O0101,2025-03-27,P104,Coffee,Beverages,Mumbai,1,180,120,5,3.0,23.0,Card
+O0102,2025-03-13,P108,Soap,Personal Care,Mumbai,2,45,28,15,3.5,30.0,Cash
+O0103,2025-01-18,P104,Coffee,Beverages,Delhi,5,180,120,10,3.5,16.0,Cash
+O0104,2025-01-31,P106,Rice 5kg,Staples,Pune,2,420,320,20,3.0,26.0,UPI
+O0105,2025-02-18,P106,Rice 5kg,Staples,Bengaluru,2,420,320,0,3.0,28.0,Wallet
+O0106,2025-01-12,P103,Biscuits,Snacks,Mumbai,2,30,18,5,4.5,27.0,Cash
+O0107,2025-02-19,P108,Soap,Personal Care,Delhi,2,45,28,15,3.5,12.0,Cash
+O0108,2025-04-21,P103,Biscuits,Snacks,Delhi,1,30,18,5,4.0,36.0,Card
+O0109,2025-03-10,P101,Bread,Grocery,Mumbai,2,35,22,10,4.5,25.0,Cash
+O0110,2025-03-15,P106,Rice 5kg,Staples,Mumbai,1,420,320,15,4.0,18.0,Cash
+O0111,2025-03-17,P105,Shampoo,Personal Care,Pune,1,220,150,20,4.0,39.0,Cash
+O0112,2025-01-16,P108,Soap,Personal Care,Bengaluru,4,45,28,10,4.5,21.0,Cash
+O0113,2025-02-07,P102,Milk,Dairy,Pune,4,60,42,5,4.0,32.0,UPI
+O0114,2025-04-15,P101,Bread,Grocery,Bengaluru,4,35,22,0,3.0,31.0,Card
+O0115,2025-01-21,P104,Coffee,Beverages,Pune,1,180,120,0,4.5,25.0,Card
+O0116,2025-03-26,P107,Cooking Oil,Staples,Bengaluru,2,160,118,5,4.5,22.0,UPI
+O0117,2025-01-15,P106,Rice 5kg,Staples,Pune,1,420,320,10,5.0,47.0,Card
+O0118,2025-02-20,P107,Cooking Oil,Staples,Mumbai,4,160,118,10,3.0,25.0,Cash
+O0119,2025-03-18,P108,Soap,Personal Care,Mumbai,1,45,28,10,3.5,30.0,Card
+O0120,2025-03-27,P102,Milk,Dairy,Delhi,2,60,42,15,5.0,20.0,Wallet
+O0121,2025-04-11,P102,Milk,Dairy,Bengaluru,5,60,42,10,3.0,39.0,Wallet
+O0122,2025-02-09,P104,Coffee,Beverages,MUMBAI,4,180,120,15,3.0,40.0,Card
+O0123,2025-01-19,P108,Soap,Personal Care,Mumbai,1,45,28,0,5.0,31.0,Cash
+O0124,2025-01-24,P102,Milk,Dairy,Mumbai,1,60,42,5,5.0,12.0,Cash
+O0125,2025-01-11,P101,Bread,Grocery,Mumbai,1,35,22,15,5.0,29.0,Cash
+O0126,2025-02-18,P106,Rice 5kg,Staples,Pune,4,420,320,15,4.0,19.0,UPI
+O0127,2025-03-06,P106,Rice 5kg,Staples,Bengaluru,1,420,320,20,5.0,32.0,Cash
+O0128,2025-03-24,P107,Cooking Oil,Staples,Bengaluru,1,160,118,10,4.0,21.0,Wallet
+O0129,2025-04-13,P101,Bread,Grocery,Mumbai,1,35,22,10,4.0,23.0,Cash
+O0130,2025-01-03,P101,Bread,Grocery,Mumbai,5,35,22,20,4.0,21.0,Cash
+O0131,2025-02-10,P101,Bread,Grocery,Mumbai,1,35,22,5,3.0,22.0,Cash
+O0132,2025-02-20,P104,Coffee,Beverages,Mumbai,1,180,120,10,4.0,30.0,UPI
+O0133,2025-03-26,P102,Milk,Dairy,Pune,3,60,42,10,5.0,38.0,Wallet
+O0134,2025-04-29,P104,Coffee,Beverages,Bengaluru,3,180,120,20,4.0,18.0,Cash
+O0135,2025-04-04,P105,Shampoo,Personal Care,Mumbai,4,220,150,0,3.0,43.0,Wallet
+O0136,2025-03-19,P104,Coffee,Beverages,Pune,5,180,120,10,4.0,18.0,Wallet
+O0137,2025-02-04,P102,Milk,Dairy,Bengaluru,3,60,42,20,4.5,24.0,UPI
+O0138,2025-02-05,P101,Bread,Grocery,Delhi,2,35,22,15,5.0,34.0,Card
+O0139,2025-02-25,P107,Cooking Oil,Staples,Mumbai,5,160,118,0,4.0,23.0,Cash
+O0140,2025-01-27,P101,Bread,Grocery,Pune,2,35,22,15,3.5,34.0,Wallet
+O0141,2025-01-05,P102,Milk,Dairy,Delhi,1,60,42,20,3.0,19.0,Wallet
+O0142,2025-04-02,P106,Rice 5kg,Staples,Pune,3,420,320,15,3.0,17.0,Wallet
+O0143,2025-04-07,P104,Coffee,Beverages,Mumbai,1,180,120,20,3.5,39.0,UPI
+O0144,2025-02-23,P107,Cooking Oil,Staples,Delhi,5,160,118,10,3.5,31.0,Cash
+O0145,2025-02-18,P107,Cooking Oil,Staples,Pune,5,160,118,10,4.5,19.0,Card
+O0146,2025-03-04,P107,Cooking Oil,Staples,Mumbai,4,160,118,15,5.0,12.0,Card
+O0147,2025-02-17,P104,Coffee,Beverages,Delhi,1,180,120,10,5.0,19.0,Cash
+O0148,2025-03-23,P101,Bread,Grocery,Mumbai,2,35,22,10,4.0,44.0,Wallet
+O0149,2025-02-05,P106,Rice 5kg,Staples,Bengaluru,2,420,320,10,3.0,32.0,UPI
+O0150,2025-04-13,P108,Soap,Personal Care,Pune,3,45,28,10,3.0,24.0,Card
+O0151,2025-03-01,P102,Milk,Dairy,Mumbai,1,60,42,0,4.0,19.0,Card
+O0152,2025-03-08,P102,Milk,Dairy,Delhi,1,60,42,5,5.0,37.0,Cash
+O0153,2025-02-20,P104,Coffee,Beverages,Bengaluru,5,180,120,20,4.5,20.0,Wallet
+O0154,2025-02-11,P103,Biscuits,Snacks,Bengaluru,2,30,18,0,4.0,31.0,Card
+O0155,2025-03-05,P103,Biscuits,Snacks,Bengaluru,3,30,18,0,4.0,30.0,UPI
+O0156,2025-04-13,P103,Biscuits,Snacks,Delhi,1,30,18,5,3.5,47.0,UPI
+O0157,2025-03-09,P101,Bread,Grocery,Mumbai,4,35,22,10,4.5,34.0,Wallet
+O0158,2025-04-24,P104,Coffee,Beverages,Bengaluru,2,180,120,10,3.5,23.0,Wallet
+O0159,2025-04-05,P103,Biscuits,Snacks,Mumbai,1,30,18,0,4.0,39.0,Card
+O0160,2025-02-08,P106,Rice 5kg,Staples,Bengaluru,4,420,320,10,5.0,35.0,Card
+O0161,2025-04-26,P108,Soap,Personal Care,Pune,1,45,28,5,3.0,12.0,Cash
+O0162,2025-04-29,P101,Bread,Grocery,Mumbai,1,35,22,10,4.5,26.0,Card
+O0163,2025-01-14,P107,Cooking Oil,Staples,Pune,2,160,118,15,3.0,20.0,Card
+O0164,2025-04-28,P102,Milk,Dairy,Mumbai,2,60,42,5,3.5,27.0,Card
+O0165,2025-01-14,P103,Biscuits,Snacks,Mumbai,4,30,18,0,3.0,26.0,Card
+O0166,2025-01-04,P104,Coffee,Beverages,Mumbai,2,180,120,5,4.0,180.0,Wallet
+O0167,2025-02-01,P105,Shampoo,Personal Care,Delhi,1,220,150,10,3.5,16.0,Wallet
+O0168,2025-02-10,P106,Rice 5kg,Staples,Delhi,3,420,320,5,3.5,18.0,Wallet
+O0169,2025-02-25,P104,Coffee,Beverages,Bengaluru,3,180,120,0,3.0,32.0,Card
+O0170,2025-01-03,P102,Milk,Dairy,Bengaluru,1,60,42,0,5.0,34.0,UPI
+O0171,2025-01-14,P102,Milk,Dairy,Pune,2,60,42,5,3.5,37.0,UPI
+O0172,2025-03-24,P105,Shampoo,Personal Care,Bengaluru,2,220,150,0,3.5,42.0,Wallet
+O0173,2025-01-20,P104,Coffee,Beverages,Bengaluru,4,180,120,20,5.0,28.0,UPI
+O0174,2025-03-08,P108,Soap,Personal Care,Mumbai,5,45,28,10,5.0,37.0,Wallet
+O0175,2025-04-08,P106,Rice 5kg,Staples,Delhi,1,420,320,10,4.5,31.0,Card
+O0176,2025-03-03,P102,Milk,Dairy,Mumbai,3,60,42,5,4.5,30.0,UPI
+O0177,2025-02-11,P106,Rice 5kg,Staples,Mumbai,1,420,320,10,3.0,17.0,Wallet
+O0178,2025-02-06,P106,Rice 5kg,Staples,Pune,4,420,320,5,3.0,38.0,Wallet
+O0179,2025-01-16,P102,Milk,Dairy,Bengaluru,1,60,42,10,4.5,31.0,Wallet
+O0180,2025-01-15,P105,Shampoo,Personal Care,Bengaluru,1,220,150,0,5.0,42.0,UPI
+O0181,2025-03-12,P105,Shampoo,Personal Care,Mumbai,1,220,150,10,5.0,,Card
+O0182,2025-01-20,P105,Shampoo,Personal Care,Pune,1,220,150,5,4.5,17.0,UPI
+O0183,2025-02-05,P102,Milk,Dairy,Mumbai,3,60,42,20,5.0,27.0,UPI
+O0184,2025-01-19,P105,Shampoo,Personal Care,Delhi,4,220,150,15,5.0,21.0,Card
+O0185,2025-03-08,P102,Milk,Dairy,Pune,2,60,42,15,4.5,38.0,Wallet
+O0186,2025-02-02,P105,Shampoo,Personal Care,Bengaluru,3,220,150,20,3.0,29.0,Card
+O0187,2025-01-02,P108,Soap,Personal Care,Delhi,4,45,28,5,4.0,23.0,Wallet
+O0188,2025-04-03,P101,Bread,Grocery,Bengaluru,3,35,22,5,3.0,30.0,Cash
+O0189,2025-04-26,P103,Biscuits,Snacks,Mumbai,1,30,18,10,3.5,18.0,Card
+O0190,2025-04-16,P104,Coffee,Beverages,Pune,3,180,120,20,4.0,27.0,Card
+O0191,2025-03-31,P101,Bread,Grocery,Pune,3,35,22,10,4.5,40.0,Card
+O0192,2025-04-04,P101,Bread,Grocery,Bengaluru,3,35,22,15,5.0,25.0,Wallet
+O0193,2025-01-25,P101,Bread,Grocery,Mumbai,3,35,22,5,3.0,43.0,Wallet
+O0194,2025-04-07,P104,Coffee,Beverages,Pune,5,180,120,20,4.0,30.0,Card
+O0195,2025-03-15,P103,Biscuits,Snacks,Pune,2,30,18,5,4.0,35.0,Cash
+O0196,2025-03-02,P108,Soap,Personal Care,Mumbai,1,45,28,0,4.0,30.0,Card
+O0197,2025-01-16,P107,Cooking Oil,Staples,Mumbai,1,160,118,5,4.5,12.0,UPI
+O0198,2025-03-29,P108,Soap,Personal Care,Delhi,1,45,28,0,4.0,28.0,Wallet
+O0199,2025-02-03,P103,Biscuits,Snacks,Mumbai,1,30,18,20,3.5,24.0,UPI
+O0200,2025-02-24,P104,Coffee,Beverages,Mumbai,1,180,120,0,3.0,33.0,Card
+O0201,2025-03-20,P102,Milk,Dairy,Pune,2,60,42,20,3.0,27.0,UPI
+O0202,2025-02-07,P103,Biscuits,Snacks,Bengaluru,1,30,18,20,4.5,35.0,Wallet
+O0203,2025-04-28,P105,Shampoo,Personal Care,Mumbai,5,220,150,10,3.0,30.0,Wallet
+O0204,2025-01-27,P103,Biscuits,Snacks,Pune,2,30,18,0,4.5,21.0,Wallet
+O0205,2025-03-07,P104,Coffee,Beverages,Pune,1,180,120,0,3.5,25.0,UPI
+O0206,2025-02-14,P107,Cooking Oil,Staples,Pune,2,160,118,10,4.5,15.0,Card
+O0207,2025-02-18,P107,Cooking Oil,Staples,Delhi,4,160,118,0,4.5,40.0,Cash
+O0208,2025-02-19,P108,Soap,Personal Care,Delhi,1,45,28,20,4.5,28.0,UPI
+O0209,2025-04-12,P102,Milk,Dairy,Pune,1,60,42,10,4.0,32.0,UPI
+O0210,2025-04-16,P102,Milk,Dairy,Pune,1,60,42,15,4.0,20.0,Wallet
+O0211,2025-03-05,P105,Shampoo,Personal Care,pune ,1,220,150,5,3.5,25.0,UPI
+O0212,2025-01-09,P108,Soap,Personal Care,Bengaluru,1,45,28,15,3.5,43.0,Cash
+O0213,2025-03-05,P104,Coffee,Beverages,Mumbai,2,180,120,15,4.0,28.0,Card
+O0214,2025-01-22,P102,Milk,Dairy,Bengaluru,1,60,42,5,5.0,30.0,Wallet
+O0215,2025-03-08,P103,Biscuits,Snacks,Bengaluru,-2,30,18,0,3.5,35.0,Card
+O0216,2025-01-19,P101,Bread,Grocery,Bengaluru,1,35,22,5,5.0,37.0,Cash
+O0217,2025-02-18,P108,Soap,Personal Care,Pune,2,45,28,10,3.5,12.0,UPI
+O0218,2025-04-09,P107,Cooking Oil,Staples,Pune,1,160,118,5,5.0,31.0,UPI
+O0219,2025-02-10,P106,Rice 5kg,Staples,Pune,1,420,320,20,4.0,24.0,Cash
+O0220,2025-01-07,P105,Shampoo,Personal Care,Bengaluru,3,220,150,15,4.5,29.0,UPI
+O0221,2025-02-22,P105,Shampoo,Personal Care,Mumbai,3,220,150,15,3.0,17.0,Card
+O0222,2025-04-16,P103,Biscuits,Snacks,Delhi,2,30,18,5,4.5,25.0,UPI
+O0223,2025-03-17,P107,Cooking Oil,Staples,Mumbai,2,160,118,0,5.0,20.0,Card
+O0224,2025-03-28,P106,Rice 5kg,Staples,Mumbai,1,420,320,10,4.0,31.0,Cash
+O0225,2025-04-25,P105,Shampoo,Personal Care,Pune,1,220,150,10,3.5,33.0,Wallet
+O0226,2025-03-12,P107,Cooking Oil,Staples,Delhi,5,160,118,5,3.5,25.0,Wallet
+O0227,2025-03-21,P107,Cooking Oil,Staples,Delhi,1,160,118,5,5.0,42.0,Cash
+O0228,2025-02-17,P106,Rice 5kg,Staples,Mumbai,5,420,320,10,3.0,28.0,Cash
+O0229,2025-04-19,P106,Rice 5kg,Staples,Mumbai,2,420,320,0,4.0,22.0,Cash
+O0230,2025-02-25,P104,Coffee,Beverages,Mumbai,1,180,120,0,4.5,33.0,UPI
+O0231,2025-03-20,P102,Milk,Dairy,Pune,3,60,42,5,3.0,18.0,Wallet
+O0232,2025-01-20,P102,Milk,Dairy,Bengaluru,5,60,42,15,4.5,19.0,UPI
+O0233,2025-01-16,P102,Milk,Dairy,Bengaluru,1,60,42,15,3.0,32.0,Card
+O0234,2025-04-20,P106,Rice 5kg,Staples,Bengaluru,3,420,320,0,5.0,12.0,Cash
+O0235,2025-04-25,P107,Cooking Oil,Staples,Pune,2,160,118,10,3.5,27.0,UPI
+O0236,2025-03-28,P103,Biscuits,Snacks,Bengaluru,2,30,18,5,4.0,31.0,Cash
+O0237,2025-02-18,P105,Shampoo,Personal Care,Pune,5,220,150,20,4.0,23.0,UPI
+O0238,2025-04-12,P108,Soap,Personal Care,Bengaluru,1,45,28,5,5.0,33.0,Cash
+O0239,2025-03-17,P104,Coffee,Beverages,Bengaluru,1,180,120,15,3.5,23.0,Wallet
+O0240,2025-02-07,P108,Soap,Personal Care,Bengaluru,5,45,28,20,3.0,26.0,Cash
+O0241,2025-04-02,P102,Milk,Dairy,Delhi,2,60,42,10,4.0,39.0,Cash
+O0242,2025-03-18,P106,Rice 5kg,Staples,Mumbai,1,420,320,5,4.0,26.0,Cash
+O0243,2025-01-27,P103,Biscuits,Snacks,Pune,4,30,18,5,5.0,22.0,Card
+O0244,2025-01-05,P101,Bread,Grocery,Mumbai,2,35,22,15,3.0,27.0,Wallet
+O0245,2025-04-03,P106,Rice 5kg,Staples,Pune,1,420,320,0,4.0,15.0,Card
+O0246,2025-04-24,P102,Milk,Dairy,Delhi,1,60,42,5,4.0,23.0,Cash
+O0247,2025-04-28,P103,Biscuits,Snacks,Pune,1,30,18,20,3.0,31.0,UPI
+O0248,2025-02-27,P103,Biscuits,Snacks,Bengaluru,1,30,18,10,4.0,15.0,UPI
+O0249,2025-01-22,P105,Shampoo,Personal Care,Delhi,2,220,150,10,4.0,28.0,Card
+O0250,2025-04-06,P106,Rice 5kg,Staples,Pune,1,420,320,20,3.0,27.0,Wallet
+O0251,2025-01-12,P101,Bread,Grocery,Pune,3,35,22,0,5.0,37.0,Card
+O0252,2025-01-22,P104,Coffee,Beverages,Mumbai,1,180,120,0,4.0,19.0,Cash
+O0253,2025-04-05,P103,Biscuits,Snacks,Pune,4,30,18,20,4.5,38.0,Card
+O0254,2025-01-29,P103,Biscuits,Snacks,Pune,3,30,18,15,3.5,26.0,Card
+O0255,2025-01-18,P103,Biscuits,Snacks,Pune,5,30,18,20,3.0,25.0,Card
+O0256,2025-02-03,P105,Shampoo,Personal Care,Delhi,2,220,150,0,3.5,22.0,UPI
+O0257,2025-04-03,P107,Cooking Oil,Staples,Delhi,1,160,118,5,4.0,42.0,Card
+O0258,2025-01-04,P102,Milk,Dairy,Delhi,1,60,42,15,3.5,25.0,Wallet
+O0259,2025-04-09,P104,Coffee,Beverages,Delhi,1,180,120,5,4.0,38.0,Cash
+O0260,2025-02-09,P103,Biscuits,Snacks,Bengaluru,1,30,18,10,4.0,41.0,Wallet
+O0261,2025-02-14,P103,Biscuits,Snacks,Mumbai,1,30,18,10,3.5,28.0,Wallet
+O0262,2025-04-02,P101,Bread,Grocery,Delhi,1,35,22,0,3.0,36.0,UPI
+O0263,2025-02-17,P101,Bread,Grocery,Pune,5,35,22,15,3.0,23.0,UPI
+O0264,2025-04-21,P104,Coffee,Beverages,Mumbai,1,180,120,20,5.0,12.0,Wallet
+O0265,2025-01-24,P104,Coffee,Beverages,Pune,1,180,120,5,4.0,25.0,Card
+O0266,2025-01-01,P106,Rice 5kg,Staples,Pune,3,420,320,10,4.0,42.0,Wallet
+O0267,2025-01-04,P104,Coffee,Beverages,Pune,1,180,120,20,4.0,12.0,Cash
+O0268,2025-02-04,P103,Biscuits,Snacks,Mumbai,1,30,18,15,3.0,21.0,Wallet
+O0269,2025-02-16,P102,Milk,Dairy,Bengaluru,1,60,42,0,4.0,17.0,Card
+O0270,2025-03-18,P105,Shampoo,Personal Care,Pune,4,220,150,0,4.0,16.0,UPI
+O0271,2025-04-18,P105,Shampoo,Personal Care,Bengaluru,3,220,150,15,3.5,26.0,UPI
+O0272,2025-04-10,P104,Coffee,Beverages,Mumbai,4,180,120,20,4.0,43.0,UPI
+O0273,2025-03-12,P104,Coffee,Beverages,Mumbai,1,180,120,5,4.5,39.0,Wallet
+O0274,2025-02-19,P101,Bread,Grocery,Delhi,1,35,22,5,4.0,27.0,UPI
+O0275,2025-04-14,P106,Rice 5kg,Staples,Delhi,1,420,320,5,4.0,20.0,Cash
+O0276,2025-02-11,P103,Biscuits,Snacks,Mumbai,5,5000,18,10,4.0,26.0,UPI
+O0277,2025-04-22,P101,Bread,Grocery,Pune,1,35,22,15,3.0,13.0,Card
+O0278,2025-02-18,P105,Shampoo,Personal Care,Delhi,1,220,150,15,5.0,38.0,Wallet
+O0279,2025-03-05,P106,Rice 5kg,Staples,Delhi,5,420,320,5,3.0,32.0,UPI
+O0280,2025-02-26,P103,Biscuits,Snacks,Bengaluru,1,30,18,10,5.0,23.0,Wallet
+O0281,2025-04-28,P107,Cooking Oil,Staples,Mumbai,2,160,118,10,4.0,12.0,Wallet
+O0282,2025-04-07,P104,Coffee,Beverages,Mumbai,4,180,120,10,4.0,32.0,UPI
+O0283,2025-01-24,P102,Milk,Dairy,Bengaluru,1,60,42,15,5.0,19.0,Cash
+O0284,2025-03-22,P103,Biscuits,Snacks,Mumbai,2,30,18,5,4.5,24.0,Cash
+O0285,2025-04-22,P107,Cooking Oil,Staples,Pune,2,160,118,15,3.5,35.0,Wallet
+O0286,2025-02-16,P105,Shampoo,Personal Care,Mumbai,1,220,150,10,4.0,22.0,Cash
+O0287,2025-02-11,P108,Soap,Personal Care,Delhi,2,45,28,10,3.0,24.0,Cash
+O0288,2025-04-27,P106,Rice 5kg,Staples,Mumbai,4,420,320,0,4.5,27.0,Cash
+O0289,2025-01-31,P105,Shampoo,Personal Care,Pune,4,220,150,20,5.0,33.0,UPI
+O0290,2025-04-30,P106,Rice 5kg,Staples,Delhi,3,420,320,20,5.0,30.0,Card
+O0291,2025-03-11,P108,Soap,Personal Care,Bengaluru,1,45,28,10,3.0,40.0,Wallet
+O0292,2025-01-10,P105,Shampoo,Personal Care,Delhi,1,220,150,10,3.0,12.0,Wallet
+O0293,2025-02-25,P102,Milk,Dairy,Mumbai,1,60,42,10,4.5,17.0,Wallet
+O0294,2025-04-29,P108,Soap,Personal Care,Mumbai,4,45,28,10,3.0,24.0,Card
+O0295,2025-04-03,P104,Coffee,Beverages,Delhi,2,180,120,0,4.0,34.0,UPI
+O0296,2025-04-06,P108,Soap,Personal Care,Bengaluru,4,45,28,0,5.0,28.0,Cash
+O0297,2025-02-14,P105,Shampoo,Personal Care,Delhi,1,220,150,5,4.5,34.0,UPI
+O0298,2025-03-18,P105,Shampoo,Personal Care,Bengaluru,3,220,150,10,5.0,12.0,Card
+O0299,2025-02-20,P102,Milk,Dairy,Delhi,1,60,42,20,4.5,22.0,UPI
+O0300,2025-03-26,P103,Biscuits,Snacks,Mumbai,3,30,18,15,3.0,31.0,UPI
+O0301,2025-02-25,P105,Shampoo,Personal Care,Mumbai,3,220,150,10,3.0,23.0,UPI
+O0302,2025-04-05,P104,Coffee,Beverages,Pune,1,180,120,0,4.0,30.0,Card
+O0303,2025-01-26,P108,Soap,Personal Care,Mumbai,1,45,28,10,3.5,12.0,UPI
+O0304,2025-03-03,P101,Bread,Grocery,Bengaluru,1,35,22,5,3.5,42.0,Wallet
+O0305,2025-01-10,P102,Milk,Dairy,Pune,3,60,42,20,5.0,26.0,Card
+O0306,2025-01-17,P104,Coffee,Beverages,Mumbai,1,180,120,0,3.5,19.0,Cash
+O0307,2025-04-26,P104,Coffee,Beverages,Pune,1,180,120,0,4.5,35.0,Cash
+O0308,2025-02-16,P108,Soap,Personal Care,Delhi,1,45,28,20,4.5,30.0,Wallet
+O0309,2025-04-11,P101,Bread,Grocery,Bengaluru,1,35,22,10,4.0,23.0,Wallet
+O0310,2025-03-26,P105,Shampoo,Personal Care,Mumbai,4,220,150,5,5.0,14.0,UPI
+O0311,2025-02-07,P103,Biscuits,Snacks,Bengaluru,1,30,18,10,3.5,18.0,UPI
+O0312,2025-03-22,P101,Bread,Grocery,Bengaluru,1,35,22,10,4.0,34.0,Wallet
+O0313,2025-04-12,P105,Shampoo,Personal Care,Mumbai,5,220,150,10,3.0,30.0,Card
+O0314,2025-02-16,P105,Shampoo,Personal Care,Pune,5,220,150,20,3.5,37.0,Wallet
+O0315,2025-02-27,P107,Cooking Oil,Staples,Mumbai,2,160,118,15,4.0,13.0,UPI
+O0316,2025-01-14,P104,Coffee,Beverages,Delhi,3,180,120,0,4.0,20.0,Wallet
+O0317,2025-04-22,P102,Milk,Dairy,Bengaluru,2,60,42,0,3.0,31.0,Wallet
+O0318,2025-02-03,P102,Milk,Dairy,Bengaluru,4,60,42,0,4.0,32.0,Cash
+O0319,2025-04-28,P107,Cooking Oil,Staples,Delhi,1,160,118,10,3.0,26.0,Wallet
+O0320,2025-01-18,P101,Bread,Grocery,Delhi,1,35,22,10,4.0,33.0,Wallet
+O0025,2025-01-12,P101,Bread,Grocery,Mumbai,5,35,22,0,4.0,14.0,Cash
+O0088,2025-03-07,P106,Rice 5kg,Staples,Delhi,1,420,320,5,4.5,17.0,Wallet
+O0151,2025-03-01,P102,Milk,Dairy,Mumbai,1,60,42,0,4.0,19.0,Card
